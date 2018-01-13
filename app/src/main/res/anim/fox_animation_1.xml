@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Animation frames are wheel0.png - wheel5.png files inside the
+res/drawable/ folder -->
+
+ <animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/selected" android:oneshot="false">
+    <item android:drawable="@drawable/fox_red_1" android:duration="200" />
+    <item android:drawable="@drawable/fox_red_2" android:duration="200" />
+    <item android:drawable="@drawable/fox_red_1" android:duration="200" />
+    <item android:drawable="@drawable/fox_red_2" android:duration="200" />
+    <item android:drawable="@drawable/fox_red_1" android:duration="200" />
+    <item android:drawable="@drawable/fox_red_2" android:duration="200" />
+    <item android:drawable="@drawable/fox_red_1" android:duration="400" />
+    <item android:drawable="@drawable/fox_red_2" android:duration="100" />
+ </animation-list>

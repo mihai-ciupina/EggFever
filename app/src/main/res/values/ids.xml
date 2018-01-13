@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="chicken1"/>
+    <item type="id" name="chicken2"/>
+    <item type="id" name="chicken3"/>
+    <item type="id" name="chicken4"/>
+    <item type="id" name="dot1"/>
+    <item type="id" name="dot2"/>
+    <item type="id" name="dot3"/>
+    <item type="id" name="dot4"/>
+    <item type="id" name="levelPassed"/>
+</resources>
